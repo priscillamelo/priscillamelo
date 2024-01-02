@@ -8,7 +8,7 @@
 
 </div></br>
 
-<img align="right" height="250em" src="https://tm.ibxk.com.br/2021/08/25/25145859223279.jpg"/>
+<img align="right" height="200em" src="https://tm.ibxk.com.br/2021/08/25/25145859223279.jpg"/>
 
 ## Tecnologias aderidas no dia-a-dia
 <div style="display: inline_block">

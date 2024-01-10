@@ -2,6 +2,13 @@
 
 - 👩🏻‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Escola Agrícola de Jundiaí/RN
 
+<a href="https://github.com/priscillamelo/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscillamelo&count_private=true&show_icons=true&theme=bear&include_all_commits=true&locale=PT-BR" />
+</a>
+<a href="https://github.com/priscillamelo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscillamelo&layout=compact&locale=PT-BR" />
+</a>
+
 <img align="right" height="200em" src="https://tm.ibxk.com.br/2021/08/25/25145859223279.jpg"/>
 
 ## Tecnologias aderidas no dia-a-dia

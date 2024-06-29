@@ -1,4 +1,4 @@
-### Olá, meu nome é Priscilla Melo, tenho 26 anos
+### Olá, meu nome é Priscilla Melo, tenho 27 anos
 
 - 👩🏻‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Escola Agrícola de Jundiaí/RN
 

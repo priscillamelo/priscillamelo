@@ -1,37 +1,44 @@
-### Olá, meu nome é Priscilla Melo, tenho 27 anos
+## Priscilla Melo - Desenvolvedora Full-Stack e Mobile
 
-- 👩🏻‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Escola Agrícola de Jundiaí/RN
+Olá! meu nome é Priscilla Melo, sou apaixonada por códigos e estou em constante aprendizado. Atualmente curso Análise e Desenvolvimento de Sistemas na Escola Agrícola de Jundiaí - UFRN.
 
-<a href="https://github.com/priscillamelo/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscillamelo&count_private=true&show_icons=true&theme=bear&include_all_commits=true&locale=PT-BR" />
-</a>
-<a href="https://github.com/priscillamelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscillamelo&layout=compact&locale=PT-BR" />
-</a>
+### Sobre mim ‍
 
-## Tecnologias aderidas no dia-a-dia
-<div style="display: inline_block">
-  <img align="center" alt="java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"">
-  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+* **Experiência:** [Mencione aqui suas experiências, como projetos pessoais, trabalhos em equipe, etc.]
+* **Habilidades:** [Liste suas principais habilidades técnicas e soft skills]
+* **Interesses:** [Compartilhe seus interesses na área da programação, como áreas específicas, metodologias, etc.]
 
-    
-  <div>
-    <img align="right" height="200em" src="https://tm.ibxk.com.br/2021/08/25/25145859223279.jpg"/>
-  </div>
+### Meus projetos
+
+* **[Projeto 1]:** [Descrição breve do projeto, tecnologias utilizadas, link para o repositório]
+* **[Projeto 2]:** [Descrição breve do projeto, tecnologias utilizadas, link para o repositório]
+
+### Stack Tecnológica ️
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" height="40" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="40" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="40" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="40" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="40" width="50"/>
 </div>
 
+### Encontre-me 
 
-## Formas de me encontrar
-<div> 
-  <a href = "mailto:contatopriscillamelo73@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/priscillamelocosta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/pandsmurf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.medium.com/@priscillamelo73" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+* **E-mail:** <a href="mailto:contatopriscillamelo73@gmail.com">contatopriscillamelo73@gmail.com</a>
+* **LinkedIn:** <a href="https://www.linkedin.com/in/priscillamelocosta">https://www.linkedin.com/in/priscillamelocosta</a>
+* **Instagram:** <a href="https://www.instagram.com/priscillamelcos">Priscilla Melo</a>
+* **Medium:** <a href="https://www.medium.com/@priscillamelo73">https://www.medium.com/@priscillamelo73</a>
+
+[Imagem de fundo opcional: uma foto sua, um desenho relacionado à programação ou uma ilustração personalizada]
+
+**GitHub Stats**
+
+<div align="center">
+  <a href="https://github.com/priscillamelo/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=priscillamelo&count_private=true&show_icons=true&theme=bear&include_all_commits=true&locale=PT-BR" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/priscillamelo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscillamelo&layout=compact&locale=PT-BR" alt="Top languages" />
+  </a>
 </div>
-
-
-
-

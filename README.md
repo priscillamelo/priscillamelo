@@ -18,8 +18,6 @@
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div></br>
 
-<img align="right" height="200em" src="https://tm.ibxk.com.br/2021/08/25/25145859223279.jpg"/>
-
 ## Formas de me encontrar
 <div> 
   <a href = "mailto:contatopriscillamelo73@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
@@ -27,5 +25,7 @@
   <a href="https://www.instagram.com/pandsmurf" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.medium.com/@priscillamelo73" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
+
+<img align="right" height="200em" src="https://tm.ibxk.com.br/2021/08/25/25145859223279.jpg"/>
 
 

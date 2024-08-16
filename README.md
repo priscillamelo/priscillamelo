@@ -16,7 +16,11 @@
   <img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div></br>
+</div>
+
+<div>
+  <img align="right" height="200em" src="https://tm.ibxk.com.br/2021/08/25/25145859223279.jpg"/>
+</div>
 
 ## Formas de me encontrar
 <div> 
@@ -26,6 +30,6 @@
   <a href="https://www.medium.com/@priscillamelo73" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 
-<img align="right" height="200em" src="https://tm.ibxk.com.br/2021/08/25/25145859223279.jpg"/>
+
 
 

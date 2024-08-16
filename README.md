@@ -9,8 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscillamelo&layout=compact&locale=PT-BR" />
 </a>
 
-<img align="right" height="200em" src="https://tm.ibxk.com.br/2021/08/25/25145859223279.jpg"/>
-
 ## Tecnologias aderidas no dia-a-dia
 <div style="display: inline_block">
   <img align="center" alt="java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -19,6 +17,8 @@
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div></br>
+
+<img align="right" height="200em" src="https://tm.ibxk.com.br/2021/08/25/25145859223279.jpg"/>
 
 ## Formas de me encontrar
 <div> 

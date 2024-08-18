@@ -18,6 +18,7 @@
   </span>
 </div>
 
+
 ## Tecnologias aderidas no dia-a-dia
 <div style="display: flex; gap: 10px;">
   <a href="https://docs.flutter.dev/" target="_blank" style="text-decoration: none">

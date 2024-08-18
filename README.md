@@ -3,7 +3,7 @@
 
 <h2>👩🏻‍💻 Priscilla Melo - Desenvolvedora Full-Stack e Mobile </h2>
 
-<h5>Sou uma pessoa apaixonada por códigos e em constante aprendizado. Atualmente curso Análise e Desenvolvimento de Sistemas na Escola Agrícola de Jundiaí - UFRN.</h5>
+<h4>Sou uma pessoa apaixonada por códigos e em constante aprendizado. Atualmente curso Análise e Desenvolvimento de Sistemas na Escola Agrícola de Jundiaí - UFRN.</h4>
 
 <div style="display: flex;
   justify-content: space-between;
